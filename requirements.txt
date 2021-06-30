@@ -1,0 +1,8 @@
+click==8.0.1
+mediapipe==0.8.4.2
+pylint==2.8.3
+flake8==3.9.2
+autopep8==1.5.7
+opencv-python==4.5.2.54
+joblib==1.0.1
+tqdm==4.61.1
